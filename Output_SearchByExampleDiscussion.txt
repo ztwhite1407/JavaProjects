@@ -1,0 +1,5 @@
+For this part of the program, the user has selected that they want to display an activity.  Once
+the user has chosen this option, they will be prompted on what criteria they want to search for.  
+This could mean searching for all activities by the activity name, the year, month or role.  For this
+run, the user has chosen 'display', then the have chosen 'year' to display by.  The year chosen was 2013,
+so all activities that have the year 2013 will be displayed to the user.

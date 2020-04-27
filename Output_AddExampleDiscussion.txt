@@ -1,0 +1,6 @@
+For this part of the program, the user has chosen to add a new activity into the calendar. 
+Once the user selects 'add', they will be prompted to add an activity name, role, year and month, 
+then once the user has entered all of the items prompted for the ArrayList will be updated and the 
+CSV file will be updated with the new ArrayList, which includes the new activity entered by the user.
+The only message that will be seen by the user once they have entered the new activity is, "Activity 
+Successfully Added".
